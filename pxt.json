@@ -1,0 +1,23 @@
+{
+    "name": "qureoCity-ts",
+    "version": "0.0.66",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "qureoCity.ts",
+        "tutorial-info-cache.json"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "1.7.7",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
